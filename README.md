@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 I'm Shiyu🐟
+- 🔭 I’m currently working on a 🚗 trip plan to 🇮🇸Iceland
+- 🌱 I’m currently learning how to hack my ⌚︎smart watch 👀
+- ⚡ Fun fact:  It's "cool" to swim outside at any time in Iceland.
