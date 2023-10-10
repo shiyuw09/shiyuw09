@@ -19,3 +19,5 @@ I'm Shiyu🐟
 - 🔭 I’m currently working on a 🚗 trip plan to 🇮🇸Iceland
 - 🌱 I’m currently learning how to hack my ⌚︎smart watch 👀
 - ⚡ Fun fact:  It's "cool" to swim outside at any time in Iceland.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiyuw09&layout=compact)
