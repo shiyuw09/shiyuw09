@@ -24,4 +24,4 @@ I'm Shiyu🐟
 
 ![Top Langs](https://github-readme-stats-shiyuw09.vercel.app/api/top-langs/?username=shiyuw09&layout=compact)
 
-![Shiyu's GitHub stats](https://github-readme-stats-shiyuw09.vercel.app/api?username=shiyuw09&show_icons=true)
+![Shiyu's GitHub stats](https://github-readme-stats-shiyuw09.vercel.app/api?username=shiyuw09&show_icons=true&hide_rank=true)
