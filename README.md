@@ -20,4 +20,6 @@ I'm Shiyu🐟
 - 🌱 I’m currently learning how to hack my ⌚︎smart watch 👀
 - ⚡ Fun fact:  It's "cool" to swim outside at any time in Iceland.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiyuw09&layout=compact)
+![Top Langs](https://github-readme-stats-shiyuw09.vercel.app/api/top-langs/?username=shiyuw09&layout=compact)
+
+![Shiyu's GitHub stats](https://github-readme-stats-shiyuw09.vercel.app/api?username=shiyuw09&show_icons=true)
